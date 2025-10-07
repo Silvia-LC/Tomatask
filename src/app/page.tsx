@@ -225,9 +225,10 @@ export default function PomodoroTimer() {
                                     </DialogHeader>
                                     <div className="space-y-4 text-card-foreground">
                                         <p className="leading-relaxed">
-                                            Temporizador Pomodoro personalizable, minimalista diseñado para mantener el enfoque y la productividad.
+                                            Temporizador Pomodoro personalizable y minimalista, diseñado para mantener el enfoque y la productividad.
                                             Tienes un espacio para tus notas y, también, para crearte una lista de tareas que te ayude
-                                            en la productividad. No te olvides de hacer descansos de 15 minutos entre Pomodoros.
+                                            en la productividad.
+                                            No te olvides de hacer descansos de 15 minutos entre Pomodoros.
                                         </p>
                                         <div className="pt-4 border-t border-border">
                                             <h3 className="font-semibold mb-3 text-foreground">Enlaces</h3>
