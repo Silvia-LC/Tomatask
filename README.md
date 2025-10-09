@@ -1,18 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a Pomodoro timer created with Shadcn, Next.js, React, and Typescript. Here you can customize your timer according to the activity you want to do: study, work, etc. You can take notes or create your own to-do list to help you achieve your goals.
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
